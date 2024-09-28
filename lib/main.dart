@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:salomon_bottom_bar/salomon_bottom_bar.dart';
-import 'package:sbm_demo/second_screen.dart';
+import 'package:sbm_demo/Screens/second_screen.dart';
 
 import 'Utils/colorsfile.dart';
 
